@@ -163,6 +163,13 @@ section {
     color: #fff;
 }
 
+.section-text-p2 {
+    text-align: center;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: #dedede;
+}
+
 .icon {
     height: 3rem;
     padding: 1rem;
