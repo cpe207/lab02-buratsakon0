@@ -5,4 +5,5 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
 
+<strong>660612150 บุรัสกร ศรีขาว (Buratsakon Srikhaw)</strong>
  <strong>GITHUB PAGE URL : https://cpe207.github.io/lab02-buratsakon0/ </strong>
